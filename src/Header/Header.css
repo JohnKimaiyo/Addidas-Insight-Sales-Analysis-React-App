@@ -1,0 +1,30 @@
+table {
+    font-family: "Times New Roman", Times, serif;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: rgb(221, 228, 228);
+    color:rgb(10, 10, 10)
+  }
+  
+  td {
+    border: 1px solid #181616;
+    text-align: left;
+    padding: 8px;
+    border-color: rgb(24, 23, 23);
+    
+  }
+  
+  tr {
+    background-color: #ada7a7;
+  }
+  th {
+    border: 1px solid #181616;
+    text-align: left;
+    padding: 8px;
+    border-color: rgb(7, 7, 7);
+   
+  }
+  
+  h2{
+    text-align:center ;
+  }
