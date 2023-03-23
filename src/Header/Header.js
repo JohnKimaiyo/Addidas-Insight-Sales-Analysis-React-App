@@ -157,7 +157,7 @@ export default function Header() {
           <td> Addidas JSON Dataset</td>
           <td>
             <a
-              href="https://raw.githubusercontent.com/JohnKimaiyo/Carrefour-Sales-Data-Analysis-React/main/src/Sourse%20Files/carrefour.json"
+              href="https://raw.githubusercontent.com/JohnKimaiyo/Addidas-Insight-Sales-Analysis-React-App/main/src/Source%20Files/addidas.json"
               target="_blank"
               rel="noopener noreferrer"
             >
