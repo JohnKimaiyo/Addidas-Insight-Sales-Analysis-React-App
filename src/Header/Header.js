@@ -170,7 +170,7 @@ export default function Header() {
           <td>Check out my Excel to JSON Converter app</td>
           <td>
             <a
-              href="https://raw.githubusercontent.com/JohnKimaiyo/NewYork-Home-Sales-Insights-React-App/main/src/Source%20Files/newyork.json"
+              href="https://excel-to-json-javascript-converter.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
             >
