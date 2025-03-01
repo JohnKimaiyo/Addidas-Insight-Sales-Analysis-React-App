@@ -1,7 +1,1 @@
-Business Demand
-
-1 Sales Manager To get a dashboard overview of Sales Can follow better which customers and products sells the best A Power BI dashboard which updates data once a day
-
-2 Sales Representative A detailed overview of Internet Sales per Customers Can follow up my customers that buys the most and who we can sell ore to A Power BI dashboard which allows me to filter data for each customer
-
-3 Sales Representative A detailed overview of Internet Sales per Products Can follow up my Products that sells the most A Power BI dashboard which allows me to filter data for each Product
+This EDA provides a basic understanding of the dataset, including the structure, missing values, duplicates, summary statistics, and initial insights into sales trends by product, sales method, and state. Further analysis could involve more advanced techniques such as time series analysis, customer segmentation, and predictive modeling.
